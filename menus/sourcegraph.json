@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sourcegraph",
+        "command": "sourcegraph:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sourcegraph",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sourcegraph:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
