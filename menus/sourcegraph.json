@@ -2,8 +2,12 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle sourcegraph",
-        "command": "sourcegraph:toggle"
+        "label": "Sourcegraph: Open",
+        "command": "sourcegraph:open"
+      },
+      {
+        "label": "Sourcegraph: Search",
+        "command": "sourcegraph:search"
       }
     ]
   },
@@ -12,11 +16,15 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "sourcegraph",
+          "label": "Sourcegraph",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "sourcegraph:toggle"
+              "label": "Sourcegraph: Open",
+              "command": "sourcegraph:open"
+            },
+            {
+              "label": "Sourcegraph: Search",
+              "command": "sourcegraph:search"
             }
           ]
         }

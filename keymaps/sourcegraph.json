@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "sourcegraph:toggle"
+    "alt-a": "sourcegraph:open",
+    "alt-s": "sourcegraph:search"
   }
 }

@@ -2,17 +2,27 @@
   "name": "sourcegraph",
   "main": "./lib/sourcegraph",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Sourcegraph for Atom",
   "keywords": [
+    "sourcegraph"
   ],
   "activationCommands": {
-    "atom-workspace": "sourcegraph:toggle"
+    "atom-text-editor": [
+      "sourcegraph:open",
+      "sourcegraph:search"
+    ]
   },
-  "repository": "https://github.com/atom/sourcegraph",
+  "repository": "https://github.com/sourcegraph/sourcegraph-atom",
+  "homepage": "https://github.com/sourcegraph/sourcegraph-atom",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.4.0 <2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sourcegraph/sourcegraph-atom/issues"
   },
   "dependencies": {
+    "execa": "^0.6.3",
+    "opn": "^5.0.0"
   }
 }
