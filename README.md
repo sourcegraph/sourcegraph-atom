@@ -7,6 +7,7 @@ The Sourcegraph plugin for Atom enables you to quickly open and search code on S
 - Open `Atom` -> `Preferences` (<kbd>Cmd+,</kbd>).
 - Select `Install` on the left.
 - Search for `Sourcegraph` and press enter, then `Install`.
+- Restart Atom.
 
 
 ## Usage
@@ -31,6 +32,7 @@ Please file an issue: https://github.com/sourcegraph/sourcegraph-atom/issues/new
 - Open `Atom` -> `Preferences` (<kbd>Cmd+,</kbd>).
 - Select `Packages` on the left.
 - Search for `Sourcegraph`, then `Uninstall`.
+- Restart Atom.
 
 
 ## Development
