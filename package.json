@@ -1,7 +1,7 @@
 {
   "name": "sourcegraph",
   "main": "./lib/sourcegraph",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sourcegraph for Atom",
   "keywords": [
     "sourcegraph"
