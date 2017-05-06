@@ -2,6 +2,8 @@
 
 The Sourcegraph plugin for Atom enables you to quickly open and search code on Sourcegraph.com easily and efficiently.
 
+### Status: Prerelease. Not yet ready for use.
+
 ## Installation
 
 - Open `Atom` -> `Preferences` (<kbd>Cmd+,</kbd>).
