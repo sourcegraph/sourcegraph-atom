@@ -24,6 +24,14 @@ Keyboard Shortcuts:
 | Search selection in Sourcegraph | <kbd>Option+S</kbd> | <kbd>Alt+S</kbd> |
 
 
+## Settings
+
+- Open `Atom` -> `Preferences` (<kbd>Cmd+,</kbd>).
+- Select `Packages` on the left.
+- Search for `Sourcegraph`, then `Settings`.
+- Click the `Default: https://sourcegraph.com` field to edit it and enter your on-premises Sourcegraph instance.
+
+
 ## Questions & Feedback
 
 Please file an issue: https://github.com/sourcegraph/sourcegraph-atom/issues/new
