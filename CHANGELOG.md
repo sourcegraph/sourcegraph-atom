@@ -1,3 +1,7 @@
+## 1.0.5 - Fixed search shortcut.
+
+- Updated the search URL to reflect a recent Sourcegraph.com change.
+
 ## 1.0.0 - Initial Release
 
-- basic Open File & Search functionality.
+- Basic Open File & Search functionality.
