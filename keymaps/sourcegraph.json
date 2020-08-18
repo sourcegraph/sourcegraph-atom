@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "alt-a": "sourcegraph:open",
-    "alt-s": "sourcegraph:search"
+    "alt-s": "sourcegraph:search",
+    "alt-c": "sourcegraph:copy"
   }
 }

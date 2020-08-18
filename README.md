@@ -22,7 +22,7 @@ Keyboard Shortcuts:
 |---------------------------------|---------------------|------------------|
 | Open file in Sourcegraph        | <kbd>Option+A</kbd> | <kbd>Alt+A</kbd> |
 | Search selection in Sourcegraph | <kbd>Option+S</kbd> | <kbd>Alt+S</kbd> |
-
+| Copy link from Sourcegraph      | <kbd>Option+C</kbd> | <kbd>Alt+C</kbd> |
 
 ## Settings
 
